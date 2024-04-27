@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hola, soy Ivan Kunsler</h1>
+</div>
 
-<!--
-**IvanKunstlerDev/IvanKunstlerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+- Desarrollador Web 💻
+- Backend Developer ⚙
+- Usuario de Linux 🐧
+- Programador autodidacta ☝🤓
+- Nivel medio de ingles 🦅
 
-Here are some ideas to get you started:
+## Tecnologias y lenguajes
+### Backend
+- Python
+- Django
+- Django Rest
+- Postgresql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML, CSS y JavaScript
+- TailwindCSS
+- ReactJS
+- Zustand
+
+## Vision a futuro
+Ahora mismo me encuentro aprendiendo Java y posiblemente continue con Spring para tener mas opciones en el Backend, pienso centrarme mas en el desarrollo del lado del servidor y solo avanzar un poco mas con mis conocimientos del Frontend. En un futuro quiero aprender Machine Learning con Python y asi brindar soluciones con inteligencia artificial, como chats en vivo con un bot, reconocimiento de patrones o recopilacion y tratado de datos. No creo que la IA vaya a sustituir del todo a los programadores, sin embargo creo en que deberiamos adaptarnos e incluirla como parte de nuestras soluciones.
